@@ -102,6 +102,3 @@ class Users extends MY_Controller {
         
         
 }
-
-/* End of file PageController.php */
-/* Location: ./application/controllers/PageController.php */
